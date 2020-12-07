@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UraraReika&layout=compact)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UraraReika&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UraraReika&layout=compact)
 
 ### Languages and Tools:
 
