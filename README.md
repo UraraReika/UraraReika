@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things.
 - 🔭 I’m currently working on something cool;
 - 🌱 I’m currently learning Vue.js.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UraraReika)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UraraReika&layout=compact)
 
 ### Languages and Tools:
 
