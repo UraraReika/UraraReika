@@ -31,5 +31,5 @@ This is the place where I opensource stuff and break things.
 
 [facebook]: https://www.facebook.com/UraraReika
 [twitter]: https://twitter.com/alexandr_rudyy
-[instagram]: https://www.instagram.com/alexandr_rudyy/li
+[instagram]: https://www.instagram.com/alexandr_rudyy
 [linkedin]: https://www.linkedin.com/in/oleksandr-rudyi-6a4721146/
