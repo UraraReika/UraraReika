@@ -34,4 +34,6 @@ This is the place where I opensource stuff and break things.
 [instagram]: https://www.instagram.com/alexandr_rudyy
 [linkedin]: https://www.linkedin.com/in/oleksandr-rudyi-6a4721146/
 
+<br /><br />
+
 Show your support buy me a [coffee](https://www.buymeacoffee.com/UraraReika).
